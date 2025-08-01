@@ -1,0 +1,64 @@
+html, body {
+  color:#232323;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight:400;
+  height:100%;
+}
+a, a:hover, a:active, a:visited {
+  color:#1474FC;
+}
+.page-home,.page-home body {
+  background-color: #FCFBF9;
+}
+.page-home .container {
+  max-width: 600px;
+}
+.page-home .head {
+  padding:20px;
+}
+.page-home .head .logo { 
+  height:40px; 
+}
+.page-home .body {
+  background-color: #fcfbf9;
+  background-image: url(./overlay-1.png), linear-gradient(0deg, rgba(252,251,249,1) 0%, rgba(206,218,235,1) 70%);
+  background-position: top right;
+  background-repeat:no-repeat;
+  margin-top: -80px;
+  padding-top:80px;
+}
+.page-home .body .section-1 {
+  color: #1474fc; padding: 200px 20px;
+  text-align:center;
+}
+.page-home .body .section-1 h1 {
+  font-weight:800;
+}
+.page-home .body .section-1 p {
+  font-size:20px;
+  margin-bottom:40px;
+}
+.page-home .foot {
+  margin-top:20px;
+}
+.page-home .foot .section-1 {
+  background-color: #F43A80;
+  color: #FFFFFF;
+  padding: 60px 0;
+  text-align: center;
+}
+.page-home .foot .section-1 h2 {
+  font-size:24px;
+}
+.page-home .foot .section-1 a {
+  font-size:30px;
+  color:#FFFFFF;
+}
+.page-home .foot .section-2 {
+  background-color: #232323;
+  color: #FFFFFF;
+  padding:20px 0;
+  text-align:center;
+}
